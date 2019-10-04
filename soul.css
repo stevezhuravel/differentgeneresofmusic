@@ -1,0 +1,17 @@
+body{
+    background : lightseagreen;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h4{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkred
+  }
+  p{
+    color: darkred
+  }

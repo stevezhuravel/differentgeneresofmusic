@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family : sans-serif;
+}
+body{
+    background: "80FF33";
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+
+.header{
+    background-color : black;
+    color: rgb(0, 170, 133);
+    text-align: right;
+    padding: 1s0px;
+}
+
+.left {
+    float: left;
+    padding: 0 20px 20px 0;
+}

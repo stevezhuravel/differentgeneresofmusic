@@ -1,0 +1,20 @@
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+.flip-box-back{
+    background-color : lightgray;
+    padding: 100px;
+    margin: 0;
+}
+#flipImageContainer{
+    background-color : lightgreen
+
+}
+.flip-box-inner{
+    background-color : lightgreen
+}
+#container{
+    background-color : lightblue
+}
